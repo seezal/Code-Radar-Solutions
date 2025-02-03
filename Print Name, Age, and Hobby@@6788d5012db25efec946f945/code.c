@@ -1,8 +1,7 @@
 #include <stdio.h>
 int main(){
 
-
-str name[5],hobby[10];
+char name[5],hobby[10];
 int age;
 scanf("%s%d%s",&name,&age,&hobby);
 printf("Name: %s \n",name);
