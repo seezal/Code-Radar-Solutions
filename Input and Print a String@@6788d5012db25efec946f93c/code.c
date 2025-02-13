@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include<stdio.h>
 int main(){
-    char word[5];
-    scanf("%s",&word);
-    printf("You entered: %s",word);
+    str a[];
+    scanf("%s",&a);
+    printf("You entered: %s",a);
 }
