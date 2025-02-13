@@ -1,6 +1,7 @@
-#include <stdio.h>
+#include<stdio.h>
 int main(){
-    char str1[5],str2[15];
-    scanf("%s%s",&str1,&str2);
-    printf("You entered: %s and %s",str1,str2);
+    char a[50],char b[50];
+    scanf("%c%c",&a&b);
+    printf("You entered: %c and %c",a,b);
+
 }
