@@ -1,9 +1,7 @@
 #include <stdio.h>
 int main(){
-    int a;
-    int b;
-    int result;
+    int a,b,c;
     scanf("%d%d",&a,&b);
-    result=a>>b;
-    printf("%d",result);
+    c=a>>b;
+    printf("%d",c);
 }
