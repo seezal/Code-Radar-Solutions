@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main(){
     int a;
-    if(a && 1){
+    scanf("%d",&a);
+        if(a && 1){
         printf("Set");
     }
     else{
