@@ -4,7 +4,7 @@ int main(){
     scanf("%d%d",&sp,&cp);
    
     loss=cp-sp;
-    if(sp>cp && sp-cp){
+    if(sp>cp || sp-cp){
         printf("Profit");
     }
     else if(cp>sp){
