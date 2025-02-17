@@ -5,10 +5,10 @@ int main(){
     profit=sp-cp;
     loss=cp-sp;
     if(sp>cp){
-        printf("Profit",profit);
+        printf("Profit%d",profit);
     }
     else if(cp>sp){
-        printf("Loss",loss);
+        printf("Loss%d",loss);
     }
     else{
         printf("No Profit No Loss");
