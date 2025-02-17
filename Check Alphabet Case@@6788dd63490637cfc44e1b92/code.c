@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    char a;
+    char alphabet;
     scanf("%c",&alphabet);
     if((alphabet>='A') && (alphabet<='Z')){
         printf("Uppercasee");
