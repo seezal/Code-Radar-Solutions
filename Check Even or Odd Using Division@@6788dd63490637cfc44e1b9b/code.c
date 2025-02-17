@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
-    int a;
-    scanf("%d",&a);
+    int num;
+    scanf("%d",&num);
     if(2*(num/2)==num){
         printf("Even");
     }
