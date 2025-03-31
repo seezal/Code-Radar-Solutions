@@ -1,10 +1,11 @@
 // Your code here...
 #include<stdio.h>
 int main(){
-    int n;
-    printf("%d",n);
+    int n,a;
+    printf("%dn",n);
     scanf("%d",&n);
+    a=n * i = ;
     for(int i=1;i<=10;i++){
-        printf("2 * %d ",i);
+        printf("%d",a);
     }
 }
