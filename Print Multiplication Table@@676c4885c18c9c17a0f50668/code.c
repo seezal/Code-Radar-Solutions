@@ -5,6 +5,6 @@ int main(){
     printf("%d",n);
     scanf("%d",&n);
     for(int i=1;i<=10;i++){
-        printf("2 * 1 = %d\n",n*i);
+        printf("2 * %d ",i);
     }
 }
