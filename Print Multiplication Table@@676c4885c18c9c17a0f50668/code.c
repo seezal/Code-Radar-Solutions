@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main(){
     int n,a;
-    printf("%dn",n);
+    printf("%d\n",n);
     scanf("%d",&n);
     a=n * i = ;
     for(int i=1;i<=10;i++){
