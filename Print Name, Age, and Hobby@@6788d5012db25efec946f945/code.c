@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main(){
-    char a[5],c[10];
+    char a[50],c[50]
     int b;
-    scanf("%s",&a);
-    scanf("%d",&b);
-    scanf("%s",&c);
-    printf("Name: %s\nAge: %d\nHobby: %s",a,b,c);
+    scanf("%s%d%s",&a,&b,&c);
+    printf("Name: %s",a);
+    printf("Age: %d",b);
+    printf("Hobby: %s",c);
 }
