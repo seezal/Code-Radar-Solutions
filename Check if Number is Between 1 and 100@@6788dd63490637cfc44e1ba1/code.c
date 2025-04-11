@@ -5,5 +5,7 @@ int main(){
     if(num>1 && num<100){
         printf("In Range");
     }
-    else if("Out of Range");
+    else{
+        printf("Out of Range");
+    }
 }
