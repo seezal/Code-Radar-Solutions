@@ -2,10 +2,8 @@
 int main(){
     int num;
     scanf("%d",&num);
-    if(num<=100 && num>=1){
+    if(num>1 && num<100){
         printf("In Range");
     }
-    else{
-        printf("Out of Range");
-    }
+    else if("Out of Range");
 }
